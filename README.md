@@ -18,3 +18,4 @@ Had another version of the code with comments but ended up losing that version a
 Will be adding documentation and more comments when i got time.
 
 ...more info will be added later.
+build for me. 
